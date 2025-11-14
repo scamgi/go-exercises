@@ -1,3 +1,5 @@
+# Go exercises
+
 ### Part 1: The Basics (Exercises 1-15)
 
 This section covers the foundational knowledge required to start programming in Go.
